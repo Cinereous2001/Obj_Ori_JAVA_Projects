@@ -1,0 +1,10 @@
+1000, 1000, Sarah Williams, 2000 Main, Santa Monica, FL, 30309, 123-45-6789, 9099.03
+1010, 1001, Alex Brown, 400 South, New Lebanon, OH, 45345, 987-65-4321, 0.03
+1020, 1002, Will Deaton, 523 Help, Seattle, WS, 73926, 861-40-8943, 4627.98
+1030, 1003, Ash Brown, 600 That, Lexington, KY, 93658, 123-15-6789, 14.34
+1040, 1004, Svetlana Kolobanova, 700 This, Harrisburg, PA, 01836, 143-45-6789, 13413.43
+1050, 1005, Vald Putin, 800 That, Altoona, PA, 02846, 123-45-7789, 12470.93
+1060, 1006, Ben Hem, 123 Plain, Las Vegas, NA, 90587, 123-45-6787, 9352.65
+1070, 1007, Andy Wade Williams, 678 Sulphur, Huston, TX, 19472, 125-45-6789, 1347829.09
+1080, 1008, John Williams, 69 Nice, Austin, TX, 91248, 123-45-6319, 134.3
+1090, 1009, Bob Grey, 875 New, Columbus, OH, 49024, 123-45-6723, 0.0
